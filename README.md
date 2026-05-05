@@ -2,6 +2,7 @@
 SQL + Excel data analysis project on superstore.
 DASHBOARD VIDEO
 https://youtu.be/B7gwo2Ur8F0
+
  Business Context
 
 The Superstore dataset represents a retail company selling products across different regions, categories, and customer segments.
